@@ -6,5 +6,7 @@ Fried-rice
 Pasta
 Chicken fry
 
+Pizza
+Cake
 
 Thank you!
